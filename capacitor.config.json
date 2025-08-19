@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ronSwansonMotivation",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
